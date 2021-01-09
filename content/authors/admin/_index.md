@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: A Journey Through EVE
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: What will Christianity look like 21,000 years from now? 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: The Journey 
+  url: https://www.thejourney.org/ 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: What will Christianity look like 21,000 years from now?
 
 # Interests to show in About widget
 interests:
@@ -40,21 +40,24 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+- icon: discord
+  icon_pack: fab
+  link: https://discord.gg/wzjzGdRg
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://twitter.com/EveThrough
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +73,9 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
+It's often remarked by various media the extent to which activities which occur within a MMO affect events in the [real world](https://www.pcgamer.com/most-expensive-eve-online-ship-sale-ever-to-benefit-australian-wildfire-relief/). Further, games such as EVE can provide for very interesting discussions about the impact of [individual decisions in larger economies](https://www.academia.edu/10278352/Virtual_Worlds_Real_Economics). But lastly, a most interesting discussion involves religious motivation towards such participation, particularly Christian. In a virtual game play simulated 21,000 years into the future, how will Christian ethics affect, or be affected by virtual game play?
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+[The Journey](https://www.thejourney.org/) is a church with multiple locations in and throughout Saint Louis, MO. We desire to see our city awakened to and transformed by the love of Jesus.
+
+
